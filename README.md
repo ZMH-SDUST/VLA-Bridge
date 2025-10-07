@@ -11,5 +11,5 @@ Download the official HICO-DET and V-COCO datasets. The download files should or
 |   |- vcoco  
 |   |   |- mscoco2014  
 |   |       |- train2014  
-|   |       |-val2014      
+|   |       |- val2014      
 ```
