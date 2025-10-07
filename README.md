@@ -1,7 +1,7 @@
 # Bridging Feature Misalignment and Semantic Confusion for Zero-Shot HOI Detection
 
 ## Dataset
-
+Download the official HICO-DET and V-COCO datasets. The download files should organized as follows:
 ```
 |- ADA-CM  
 |   |- hicodet  
