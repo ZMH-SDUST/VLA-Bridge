@@ -23,6 +23,7 @@ Download the official HICO-DET and V-COCO datasets. The download files should or
 
 ## Train or Eval (HICO-DET)
 ### Train
+```bash
 `python main_tip_ye.py --world-size 2--pretrained checkpoints/detr-r50-hicodet.pth --output-dir checkpoints/hico --use_insadapter --num_classes 117 --use_multi_hot --file1 hicodet_pkl_files/hicodet_union_embeddings_cachemodel_crop_padding_zeros_vit336.p --clip_dir_vit checkpoints/pretrained_clip/ViT-L-14-336px.pt`
 
 ### Eval
